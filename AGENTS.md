@@ -7,7 +7,6 @@ This file describes the public team-wide boundaries for work in this repository.
 - Staff identify themselves with their emoji immediately followed by their name, such as `🧭Manager`.
 - Start proposed issue titles with the speaker identity, such as `🧭Manager: Subject`.
 - Start each proposed public message body with the speaker identity and a colon, such as `🧭Manager:`.
-- End proposed public message bodies with the speaker's signature.
 - The GitHub account may show the connected account as the actor; role attribution identifies the intended speaker.
 
 ## Access and publication
